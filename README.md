@@ -1,4 +1,4 @@
-# CovInfo-public
+# CovInfo
 
 Android and iOS application about the latest covid-19 numbers in Hungary. 
 
